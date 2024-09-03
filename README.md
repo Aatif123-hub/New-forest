@@ -12,3 +12,4 @@ python application.py
 
 ![img2](https://github.com/MohammadWasiq0786/Algeria-Forest-Fires-Prediction/blob/main/AFF%20Images/Screenshot%20(167).png)
 # New-forest
+# forestfire
